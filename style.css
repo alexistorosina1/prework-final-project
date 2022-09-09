@@ -5,10 +5,14 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+h1 {
+    padding: 10px 10px;
+}
 
 body {
     background: #000;
 }
+
 .container {
     padding: 10px 10%;
 }
@@ -22,4 +26,5 @@ nav a {
     padding: 10px 20px;
     color: #fff;
     text-decoration: none;
+    position: relative;
 }
