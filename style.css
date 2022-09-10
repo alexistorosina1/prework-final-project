@@ -6,15 +6,20 @@
 }
 
 h1 {
-    padding: 10px 10px;
+    padding: 10px 20px;
 }
 
 body {
     background: #000;
 }
 
-.container {
+.topnav {
     padding: 10px 10%;
+}
+
+div a:hover  {
+    padding: 10px 10%;
+    color: orange;
 }
 
 nav { 
